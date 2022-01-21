@@ -1,0 +1,16 @@
+{
+    "name": "Tutorial",
+    "description": "A tutorial pack",
+    "support": "developer",
+    "currentVersion": "1.0.0",
+    "author": "SG",
+    "url": "",
+    "email": "foo@example.com",
+    "categories": [
+        "Analytics & SIEM"
+    ],
+    "tags": [],
+    "useCases": [],
+    "keywords": [],
+    "githubUser": []
+}
