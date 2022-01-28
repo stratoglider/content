@@ -20,7 +20,7 @@ def util_load_json(path):
 
 
 # TODO: REMOVE the following dummy unit test function
-def test_baseintegration_dummy():
+def test_tutorial():
     """Tests helloworld-say-hello command function.
 
     Checks the output of the command function with the expected output.
@@ -28,7 +28,7 @@ def test_baseintegration_dummy():
     No mock is needed here because the say_hello_command does not call
     any external API.
     """
-    from BaseIntegration import Client, baseintegration_dummy_command
+    from Tutorial import Client, baseintegration_dummy_command
 
     client = Client(base_url='some_mock_url', verify=False)
     args = {
